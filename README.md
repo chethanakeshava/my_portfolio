@@ -18,7 +18,7 @@ This is my personal portfolio website showcasing my projects in AI, Machine Lear
 
 ## 🔗 Live Demo
 
-[chethanakeshava-portfolio.netlify.app](https://chethana-portfolio.netlify.app)
+[chethanakeshava-portfolio.netlify.app](https://chethanakeshava-portfolio.netlify.app/)
 
 ## 👩‍💻 Author
 
